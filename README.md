@@ -1,6 +1,5 @@
-# paypal-back-end-
-paypal project
-paypal project for payment getaway
-my name is oluwabunmi Gbemisola Ogunsakin
-my hubbies are learning,signing, dancing, and hanging out with friend
-I got my first job as a devop engineer haring 100k pa
+
+Name: my name is oluwabunmi gbemisola Ogunsakin
+hobbies; my  hobbies are dancing, reading, gising with friend, praying/ talking to God and being with family.
+profession: I am a data governace manger, lead BA, and a senior devops eng
+
