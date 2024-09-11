@@ -1,5 +1,6 @@
 
-Name: my name is oluwabunmi gbemisola Ogunsakin
-hobbies; my  hobbies are dancing, reading, gising with friend, praying/ talking to God and being with family.
-profession: I am a data governace manger, lead BA, and a senior devops eng
+Name: My name is Oluwabunmi Gbemisola Ogunsakin
+My hobbies are dancing, reading, gising with friends, praying/ talking to God, and being with family.
+Profession: I am a data governance manager, lead BA, and a senior DevOps Engineer 
+
 
